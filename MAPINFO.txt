@@ -1,0 +1,91 @@
+clearskills
+
+skill easy
+{
+   AutoUseHealth
+   AmmoFactor = 5
+   DamageFactor = 0.05
+   MonsterHealth = 0.05
+   EasyKey
+   //DefaultSkill
+   SlowMonsters
+   FriendlyHealth = 1
+   Aggressiveness = 0
+   EasyBossBrain
+   TotalInfighting
+   SpawnFilter = nightmare//hard
+   name = "easy-Power-Fantasy"
+   //mustconfirm = "Plenty of enemies and you take 75% less damage. This is barely a challenge and is only meant to be played by phone users, gaming journalists, or people just wanting a casual playthrough with no difficulty, or if you are playing a ridiculously difficulty wad such as Dark Tartarus. Press Enter to Confirm"
+}
+
+skill medium
+{
+   AutoUseHealth
+   AmmoFactor = 5
+   DamageFactor = 0.05
+   MonsterHealth = 0.05
+   EasyKey
+   //DefaultSkill
+   SlowMonsters
+   FriendlyHealth = 1
+   Aggressiveness = 0
+   EasyBossBrain
+   TotalInfighting
+   SpawnFilter = nightmare//hard
+   name = "normal-Power-Fantasy"
+   //mustconfirm = "Plenty of enemies and you take 75% less damage. This is barely a challenge and is only meant to be played by phone users, gaming journalists, or people just wanting a casual playthrough with no difficulty, or if you are playing a ridiculously difficulty wad such as Dark Tartarus. Press Enter to Confirm"
+}
+
+skill hard
+{
+   AutoUseHealth
+   AmmoFactor = 5
+   DamageFactor = 0.05
+   MonsterHealth = 0.1
+   EasyKey
+   //DefaultSkill
+   SlowMonsters
+   FriendlyHealth = 1
+   Aggressiveness = 0
+   EasyBossBrain
+   TotalInfighting
+   SpawnFilter = nightmare//hard
+   name = "hard-Power-Fantasy"
+   //mustconfirm = "Plenty of enemies and you take 75% less damage. This is barely a challenge and is only meant to be played by phone users, gaming journalists, or people just wanting a casual playthrough with no difficulty, or if you are playing a ridiculously difficulty wad such as Dark Tartarus. Press Enter to Confirm"
+}
+
+skill bighard
+{
+   AutoUseHealth
+   AmmoFactor = 5
+   DamageFactor = 0.2
+   MonsterHealth = 0.5
+   EasyKey
+   DefaultSkill
+   SlowMonsters
+   FriendlyHealth = 1
+   Aggressiveness = 0
+   EasyBossBrain
+   //TotalInfighting
+   SpawnFilter = nightmare//hard
+   name = "bighard-Fantasy"
+   //mustconfirm = "Plenty of enemies and you take 75% less damage. This is barely a challenge and is only meant to be played by phone users, gaming journalists, or people just wanting a casual playthrough with no difficulty, or if you are playing a ridiculously difficulty wad such as Dark Tartarus. Press Enter to Confirm"
+}
+
+skill ultra
+{
+   AutoUseHealth
+   AmmoFactor = 5
+   DamageFactor = 0.2
+   MonsterHealth = 1
+   EasyKey
+   //DefaultSkill
+   SlowMonsters
+   FriendlyHealth = 1
+   Aggressiveness = 0
+   EasyBossBrain
+   TotalInfighting
+   SpawnFilter = nightmare//hard
+   name = "ultra-easy-Fantasy"
+   //mustconfirm = "Plenty of enemies and you take 75% less damage. This is barely a challenge and is only meant to be played by phone users, gaming journalists, or people just wanting a casual playthrough with no difficulty, or if you are playing a ridiculously difficulty wad such as Dark Tartarus. Press Enter to Confirm"
+}
