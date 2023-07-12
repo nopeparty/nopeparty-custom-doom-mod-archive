@@ -61,7 +61,7 @@ skill bighard
    DamageFactor = 0.2
    MonsterHealth = 0.5
    EasyKey
-   DefaultSkill
+   //DefaultSkill
    SlowMonsters
    FriendlyHealth = 1
    Aggressiveness = 0
@@ -77,9 +77,9 @@ skill ultra
    AutoUseHealth
    AmmoFactor = 5
    DamageFactor = 0.2
-   MonsterHealth = 1
+   MonsterHealth = 0.2
    EasyKey
-   //DefaultSkill
+   DefaultSkill
    SlowMonsters
    FriendlyHealth = 1
    Aggressiveness = 0
